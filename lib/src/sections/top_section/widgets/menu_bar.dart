@@ -38,7 +38,7 @@ class MenuBar extends StatelessWidget {
           TextButton(
             onPressed: null,
             child: Text(
-              'Work',
+              'My Work',
               style: kMenuHeader,
             ),
           ),
